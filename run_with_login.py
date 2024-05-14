@@ -21,12 +21,12 @@ def listenHotword():
 if __name__ == '__main__':
     speak("Initializing Jarvis", use_eel=False)
     print("Loading J.A.R.V.I.S ⌛")
-    # speak("Starting all system applications", use_eel=False)
-    # speak("Installing and checking all drivers", use_eel=False)
-    # speak("Caliberating and examining all the core processors", use_eel=False)
-    # speak("Checking the internet connection ", use_eel=False)
-    # speak("All drivers are up and running", use_eel=False)
-    # speak("All systems have beeen activated", use_eel=False)
+    speak("Starting all system applications", use_eel=False)
+    speak("Installing and checking all drivers", use_eel=False)
+    speak("Caliberating and examining all the core processors", use_eel=False)
+    speak("Checking the internet connection ", use_eel=False)
+    speak("All drivers are up and running", use_eel=False)
+    speak("All systems have beeen activated", use_eel=False)
     
     # time.sleep(2)
     
