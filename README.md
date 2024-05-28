@@ -1,15 +1,16 @@
 ## Introduction
 **This Python voice assistant with GUI is a use-friendly application designed to interact with users using voice commands & provides a moder graphical user interface for easy control. This assistant is capable of performing various tasks based on user input.**
 
-## Built with: 
-
-HTML
-CSS3
-jS
-Pyhton
-SQlite
-
 - Demo video for ***J.A.R.V.I.S*** is available [here](https://drive.google.com/drive/folders/1-42zCfCObzy2b49qia1oI4E9AU92YWQC?usp=drive_link)
+
+
+## Built with: 
+-HTML
+-CSS3 
+-jS
+-Pyhton
+-SQlite
+
 
 ## Features of JARVIS
 
