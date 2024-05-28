@@ -3,7 +3,6 @@
 
 - Demo video for ***J.A.R.V.I.S*** is available [here](https://drive.google.com/drive/folders/1-42zCfCObzy2b49qia1oI4E9AU92YWQC?usp=drive_link)
 
-
 ## Built with: 
 - HTML
 - CSS3 
@@ -11,6 +10,8 @@
 - Pyhton
 - SQlite
 
+**TECH STACK**
+![tech stack](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/e773f87b-a83e-49c9-bd8b-865e237cc6e1)
 
 ## Features of JARVIS
 
@@ -82,5 +83,4 @@
     └── style.css
 
 ```
-![sc1](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/313285cb-7fca-4369-87a6-a82bfa48636d)
-![race recog](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/7346fa1f-b0b4-455e-9be8-3da03303f966)
+
