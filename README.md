@@ -41,7 +41,7 @@ Currently I've implemented:
 ## UI
 ![Hood](https://photos.app.goo.gl/YxyfRBiKsKg6cLYq9)
 
-## Project Directory Structure
+## Project Directory Structure 🌲
 
 ```
 ├── .env
@@ -88,7 +88,12 @@ Currently I've implemented:
     └── style.css
 
 ```
-## Installation
+## API Keys 🔑
+
+    1. Open Weather: https://openweathermap.org/
+    2. NEWS API: https://newsapi.org/
+    3. The Movies Database(TMDB) : https://www.themoviedb.org/
+## Installation 💻
 
 - You need to first ```fork``` this repository and ```clone``` the repository to your local system 
 
