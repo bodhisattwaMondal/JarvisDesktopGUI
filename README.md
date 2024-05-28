@@ -39,7 +39,7 @@ Currently I've implemented:
 ## Visuals
 
 ## UI
-![Example Image]((https://photos.app.goo.gl/9muqZTU18F48TdA6A))
+![Example Image]((https://drive.google.com/file/d/1IGD_g_RIvFKSzg7La5xK6WQmW8lqx-5N/view?usp=drive_link))
 
 ## Project Directory Structure 🌲
 
