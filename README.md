@@ -1,19 +1,18 @@
-## Introduction
-**This Python voice assistant with GUI is a use-friendly application designed to interact with users using voice commands & provides a moder graphical user interface for easy control. This assistant is capable of performing various tasks based on user input.**
 
-- Demo video for ***J.A.R.V.I.S*** is available [here](https://drive.google.com/drive/folders/1-42zCfCObzy2b49qia1oI4E9AU92YWQC?usp=drive_link)
+## Title
+**J.A.R.V.I.S** - JUST A RATHER VERY INTELLIGENT SYSTEM inspired by Tony Stark's IRONMAN from the MCU
+# Description
 
-## Built with: 
-- HTML
-- CSS3 
-- jS
-- Pyhton
-- SQlite
+In this project I've created a virtual desktop voice assistant 'JARVIS', which has been creatd by using **python** as the scripting language and **HTML**, **CSS**, **jS** as the front-end part.
 
-**TECH STACK**
-![tech stack](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/e773f87b-a83e-49c9-bd8b-865e237cc6e1)
+Currently I've implemented:
+1. User Login using face recognition
+2. Advance GUI using HTML, CSS & jS
+3. Provided 25+ features to JARVIS.
 
-## Features of JARVIS
+
+
+## Features
 
 1.	Face Recognition for authentication
 2.	WhatsApp automation
@@ -36,51 +35,7 @@
 19.	Current day & date
 20.	Current time
 
-## Project Directory Tree
+## Visuals
 
-```
-├── .env
-├── .gitignore
-├── engine
-│   ├── command.py
-│   ├── config.py
-│   ├── cookies.json
-│   ├── db.py
-│   ├── features.py
-│   └── helper.py
-├── jarvis.db
-├── main.py
-├── requirements.txt
-├── run.py
-├── run_with_login.py
-├── tree.py
-├── user_authentication
-│   ├── face_recognition.py
-│   ├── haarcascade_frontalface_default.xml
-│   ├── model trainer.py
-│   ├── sample generator.py
-│   ├── samples
-│   │   └── face.1.1.jpg
-│   └── trainer
-│       └── trainer.yml
-└── www
-    ├── assets
-    │   ├── audio
-    │   │   └── start_sound.mp3
-    │   ├── img
-    │   │   ├── ironman.ico
-    │   │   └── jarvis logo.ico
-    │   └── vendore
-    │       └── textillate
-    │           ├── animate.css
-    │           ├── jquery.fittext.js
-    │           ├── jquery.lettering.js
-    │           └── style.css
-    ├── controller.js
-    ├── index.html
-    ├── main.js
-    ├── script.js
-    └── style.css
-
-```
-
+## UI
+![Hood](https://photos.google.com/album/AF1QipMfG-Q0zS-iM6aOFiMJaYfzbUgEhigJcJnyn2xS/photo/AF1QipPrWimpZU4b1lNBI7kT_BoVME4Pqk4UlqxE0wgh)
