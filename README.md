@@ -5,11 +5,11 @@
 
 
 ## Built with: 
--HTML
--CSS3 
--jS
--Pyhton
--SQlite
+- HTML
+- CSS3 
+- jS
+- Pyhton
+- SQlite
 
 
 ## Features of JARVIS
