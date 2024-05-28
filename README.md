@@ -82,3 +82,5 @@
     └── style.css
 
 ```
+![sc1](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/313285cb-7fca-4369-87a6-a82bfa48636d)
+![race recog](https://github.com/bodhisattwaMondal/JarvisDesktopGUI/assets/123143501/7346fa1f-b0b4-455e-9be8-3da03303f966)
